@@ -1,13 +1,13 @@
 %define		pkg	abbrev
 Summary:	Abbreviation calculator for Node.js
 Name:		nodejs-%{pkg}
-Version:	1.0.3
+Version:	1.0.4
 Release:	1
 License:	MIT
 Group:		Development/Libraries
 URL:		https://github.com/isaacs/abbrev-js
 Source0:	http://registry.npmjs.org/abbrev/-/abbrev-%{version}.tgz
-# Source0-md5:	1f71ac1c233f52712018b60f9f926239
+# Source0-md5:	85aa5087294a43d964af949deb0fca86
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
 BuildArch:	noarch
