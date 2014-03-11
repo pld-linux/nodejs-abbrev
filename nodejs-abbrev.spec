@@ -5,9 +5,9 @@ Version:	1.0.4
 Release:	1
 License:	MIT
 Group:		Development/Libraries
-URL:		https://github.com/isaacs/abbrev-js
 Source0:	http://registry.npmjs.org/abbrev/-/abbrev-%{version}.tgz
 # Source0-md5:	85aa5087294a43d964af949deb0fca86
+URL:		https://github.com/isaacs/abbrev-js
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
 BuildArch:	noarch
