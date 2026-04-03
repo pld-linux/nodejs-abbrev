@@ -2,7 +2,7 @@
 Summary:	Abbreviation calculator for Node.js
 Name:		nodejs-%{pkg}
 Version:	1.0.5
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/abbrev/-/abbrev-%{version}.tgz
